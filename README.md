@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @code-source-javascript
+- 👀 I’m interested in fullstack javascript development
+- 🌱 I’m currently learning frontend development with React and React Native
+- 💞️ I’m looking to collaborate on javascript projects
+- 📫 You can reach me on calebokyere1@gmail.com
