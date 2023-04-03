@@ -6,10 +6,7 @@
 ### <div align="center">I'm Caleb Okyere, a Full-Stack Software Engineer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently unemployed and partaking in ALX Software Engineering Program  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🔭 I’m currently unemployed and partaking in ALX Software Engineering Program 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
