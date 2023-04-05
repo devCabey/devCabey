@@ -114,7 +114,7 @@
 </td></tr></table>
 
 <br/>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCabey&" alt="devCabey" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCabey&" alt="devCabey" /></p>
 
 <br/> 
 
