@@ -4,6 +4,10 @@
   
 
 ### <div align="center">I'm Caleb Okyere, a Full-Stack Software Engineer 👨‍💻.</div>  
+
+<br/>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devCabey" alt="devCabey" /></a> </p>
+ <br/>
   
 
 - 🔭 I’m currently unemployed and partaking in ALX Software Engineering Program 
@@ -118,9 +122,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=devCabey&&style=flat-square)  
   
 
-<br/>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devCabey" alt="devCabey" /></a> </p>
-  
+
 
 <br/>  
 
