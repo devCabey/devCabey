@@ -116,8 +116,11 @@
 <br/>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devCabey&" alt="devCabey" /></p>
 
-<br/>  
+<br/> 
+
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=devCabey&&style=flat-square)  
+
 <br/>  
 
 
