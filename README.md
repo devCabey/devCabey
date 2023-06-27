@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun Question: Does the learning ever end for a software engineer.  
+- ⚡ Fun Question: Does the learning ever end for a software engineer?.  
   
 
 <br/>  
