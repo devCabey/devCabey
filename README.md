@@ -10,13 +10,13 @@
  <br/>
   
 
-- 🔭 I’m currently unemployed and partaking in ALX Software Engineering Program 
+- 🔭 I’m currently working on my portfolio
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: The Learning never stops as a software engineer.  
+- ⚡ Fun fact: The learning never stops as a software engineer.  
   
 
 <br/>  
