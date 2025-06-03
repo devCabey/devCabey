@@ -7,7 +7,7 @@
 
 <br/>  
   <center>
-    <img src="https://github-profile-trophy.vercel.app/?username=devCabey&theme=light&row=2&column=3"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=devCabey&theme=light&row=2&column=6"/>
   </center>
  <br/>
   
