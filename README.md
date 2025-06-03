@@ -6,7 +6,7 @@
 ### <div align="center">I'm Caleb Okyere, a Full-Stack Software Engineer 👨‍💻.</div>  
 
 <br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=devCabey)](https://github.com/devCabey/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devCabey)](https://github.com/ryo-ma/github-profile-trophy)
  <br/>
   
 
